@@ -26,7 +26,7 @@ STATIC_DIR = os.path.join(BASE_DIR, 'static')
 SECRET_KEY = 'kx3xy(*&ou9ql(j+&20h!vnelm5(x6+%1h20c(sbzi^cl*4ly&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', 'evanweb-blog.herokuapp.com']
 
